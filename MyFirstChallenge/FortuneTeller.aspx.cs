@@ -22,6 +22,7 @@ namespace MyFirstChallenge
             string yourFortune = "At " + yourAge + " years old, I would have expected you to have more than " + yourMoney + " in your pocket.";
 
             yourFortuneLabel.Text = yourFortune;
+            //a little snarky, don't you think?
         }
     }
 }
